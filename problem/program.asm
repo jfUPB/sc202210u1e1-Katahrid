@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Santiago Escandon 
+// 000422314
+// santiago.escandon@upb.edu.co
 (START)
     @START
     0;JMP
